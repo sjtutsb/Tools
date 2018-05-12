@@ -1,1 +1,1 @@
-This file contains demo for image processing.
+This file contains demo for image processing and pattern recongition.
