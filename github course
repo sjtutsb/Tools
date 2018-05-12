@@ -1,6 +1,7 @@
 github上传代码教程：
 https://jingyan.baidu.com/article/e5c39bf5c8c4d039d76033b2.html
 
+local--github synchronous
 add fie:
 git add filename
 git commit -m "add"
